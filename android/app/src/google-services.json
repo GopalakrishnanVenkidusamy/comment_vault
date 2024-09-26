@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867308386698",
+    "project_id": "commentvault",
+    "storage_bucket": "commentvault.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867308386698:android:bfc8fd6a7270b1bd30f073",
+        "android_client_info": {
+          "package_name": "com.example.comment_vault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4wn2fimCDgg86HQYnfoMtC2b6tNWmR5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
