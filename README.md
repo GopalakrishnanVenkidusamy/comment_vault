@@ -52,12 +52,8 @@ This is a Flutter application built to showcase user authentication, remote conf
 ## How to Run the Project
 
 1. Clone this repository.
-2. Set up your Firebase project and add the necessary Firebase configuration files (`google-services.json` for Android and `GoogleService-Info.plist` for iOS).
-3. Enable Firebase Authentication (Email/Password).
-4. Set up Firestore with a collection for storing user data.
-5. Create a Remote Config parameter (boolean) to control the email masking feature.
-6. Run `flutter pub get` to fetch the necessary packages.
-7. Start the app using `flutter run`.
+2. Run `flutter pub get` to fetch the necessary packages.
+3. Start the app using `flutter run`.
 
 ---
 
